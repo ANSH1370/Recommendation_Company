@@ -1,0 +1,8 @@
+nltk
+PyPDF2( Optional )
+genism
+numpy
+pandas
+pickle
+pdfminer
+spacy
